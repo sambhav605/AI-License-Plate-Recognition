@@ -1,0 +1,10 @@
+## For image Processing
+opencv-python
+cvzone
+
+#For YOLO 
+ultralytics 
+
+# For general 
+pandas 
+numpy 
