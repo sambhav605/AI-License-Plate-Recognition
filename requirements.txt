@@ -8,3 +8,11 @@ ultralytics
 # For general 
 pandas 
 numpy 
+
+# For OCR 
+easyocr
+
+
+## To run the code in GPU -optional
+torch 
+torchvision
